@@ -61,3 +61,19 @@ app.*.map.json
 *.jks
 *.p12
 *.developerprofile
+
+# === Firebase & Flutterfire Specific ===
+.firebase/
+firebase-debug.log
+*ui-debug.log
+*fire.log
+.firebaserc
+
+# Firebase Native Configurations
+**/android/app/google-services.json
+**/ios/Runner/GoogleService-Info.plist
+**/macos/Runner/GoogleService-Info.plist
+
+# Firebase Admin SDK Service Accounts
+*-service-account.json
+*secret*.json
