@@ -1,17 +1,7 @@
 # mynotes
 
-A new Flutter project.
+This project's purpose is to learn Flutter and is more advanced that Krakflow project (another repo)
 
-## Getting Started
+It is based on Vandad Nahavandipoor course on Youtube, available in this link: https://www.youtube.com/watch?v=VPvVD8t02U8
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I am just following what is on the video for learning purposes, it is not my intellectual property.
